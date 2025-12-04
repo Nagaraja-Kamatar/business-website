@@ -111,10 +111,13 @@ This project uses structured prompt engineering:
 
 Run the project using Python server:
 
-```bash
+
 git clone https://github.com/Nagaraja-Kamatar/business-website.git
+
 cd business-website
 python3 -m http.server 8000
+
+
 Now open:
 👉 http://localhost:8000
 🚀 Deployment
@@ -125,6 +128,10 @@ GitHub Pages
 CodeSandbox
 📄 License
 This project is created solely for internship assessment and educational purposes.
+
+
 👨‍💻 Author
 Nagaraj Kamatar
 GitHub: https://github.com/Nagaraja-Kamatar
+
+```bash
